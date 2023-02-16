@@ -1,7 +1,8 @@
 #include<stdio.h>
 /**
-*main - A program that prints a line with function
-*Return 0(Success)
+*main - Entry point
+*Description: "A program that prints a line with function"
+*Return: Always 0(Success)
 */
 int main(void)
 {
